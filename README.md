@@ -2,15 +2,11 @@
 # Decentralized Smart Grid Stability Prediction using Machine Learning Techniques
 
 ## Overview
-Extreme weather causes high load
-
-Smart grid load assessment is crutial
-
-Reduce power outages by predicting demand and supply load balancing
-
-Ensures continuous power supply
-
-Machine Learning techniques shows high prediction accuracy
+- Extreme weather causes high load
+- Smart grid load assessment is crutial
+- Reduce power outages by predicting demand and supply load balancing
+- Ensures continuous power supply
+- Machine Learning techniques shows high prediction accuracy
 ## Architecture
 
 [
