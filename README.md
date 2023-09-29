@@ -18,13 +18,10 @@ Machine Learning techniques shows high prediction accuracy
 ](url)
 ## Machine Learning Models
 
-Logistic Regression
-
-Random Forest
-
-XGBoost
-
-Penalized Linear Regression
+- Logistic Regression
+- Random Forest
+- XGBoost
+- Penalized Linear Regression
 ## Setup/Steps
 1) Perform EDA
 2) Data Transformation
